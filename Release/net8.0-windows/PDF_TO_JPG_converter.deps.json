@@ -1,0 +1,262 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PDF_TO_JPG_converter/1.0.8": {
+        "dependencies": {
+          "Syncfusion.PdfViewer.Windows": "31.2.3"
+        },
+        "runtime": {
+          "PDF_TO_JPG_converter.dll": {}
+        },
+        "resources": {
+          "lg/PDF_TO_JPG_converter.resources.dll": {
+            "locale": "lg"
+          }
+        }
+      },
+      "Microsoft.WinForms.Designer.SDK/1.6.0": {
+        "dependencies": {
+          "System.CodeDom": "4.6.0",
+          "System.Composition": "6.0.0"
+        }
+      },
+      "Syncfusion.Compression.Base/31.2.3": {
+        "runtime": {
+          "lib/net8.0-windows7.0/Syncfusion.Compression.Base.dll": {
+            "assemblyVersion": "31.2.3.0",
+            "fileVersion": "31.2.3.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/31.2.3": {
+        "runtime": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "31.2.3.0",
+            "fileVersion": "31.2.3.0"
+          }
+        }
+      },
+      "Syncfusion.Pdf.WinForms/31.2.3": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "31.2.3",
+          "Syncfusion.Licensing": "31.2.3"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Syncfusion.Pdf.Base.dll": {
+            "assemblyVersion": "31.2.3.0",
+            "fileVersion": "31.2.3.0"
+          }
+        }
+      },
+      "Syncfusion.PdfToImageConverter.WinForms/31.2.3": {
+        "dependencies": {
+          "Syncfusion.Licensing": "31.2.3"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Syncfusion.PdfToImageConverter.Base.dll": {
+            "assemblyVersion": "31.2.3.0",
+            "fileVersion": "31.2.3.0"
+          }
+        }
+      },
+      "Syncfusion.PdfViewer.Windows/31.2.3": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "31.2.3",
+          "Syncfusion.Licensing": "31.2.3",
+          "Syncfusion.Pdf.WinForms": "31.2.3",
+          "Syncfusion.PdfToImageConverter.WinForms": "31.2.3",
+          "Syncfusion.Shared.Base": "31.2.3"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Syncfusion.PdfViewer.Windows.dll": {
+            "assemblyVersion": "31.2.3.0",
+            "fileVersion": "31.2.3.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.Base/31.2.3": {
+        "dependencies": {
+          "Microsoft.WinForms.Designer.SDK": "1.6.0",
+          "Syncfusion.Licensing": "31.2.3"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Syncfusion.Shared.Base.dll": {
+            "assemblyVersion": "31.2.3.0",
+            "fileVersion": "31.2.3.0"
+          }
+        }
+      },
+      "System.CodeDom/4.6.0": {},
+      "System.Composition/6.0.0": {
+        "dependencies": {
+          "System.Composition.AttributedModel": "6.0.0",
+          "System.Composition.Convention": "6.0.0",
+          "System.Composition.Hosting": "6.0.0",
+          "System.Composition.Runtime": "6.0.0",
+          "System.Composition.TypedParts": "6.0.0"
+        }
+      },
+      "System.Composition.AttributedModel/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Composition.AttributedModel.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Composition.Convention/6.0.0": {
+        "dependencies": {
+          "System.Composition.AttributedModel": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Composition.Convention.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Composition.Hosting/6.0.0": {
+        "dependencies": {
+          "System.Composition.Runtime": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Composition.Hosting.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Composition.Runtime/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Composition.Runtime.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Composition.TypedParts/6.0.0": {
+        "dependencies": {
+          "System.Composition.AttributedModel": "6.0.0",
+          "System.Composition.Hosting": "6.0.0",
+          "System.Composition.Runtime": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Composition.TypedParts.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PDF_TO_JPG_converter/1.0.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.WinForms.Designer.SDK/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BDIY84GbvQ4ensnD1zuZUmWIypl2muqUm4SM9qZ48OmaN8G5dmos38Dt35aEzMy0sN2Ci6UaJPiY1gwmw5eo7A==",
+      "path": "microsoft.winforms.designer.sdk/1.6.0",
+      "hashPath": "microsoft.winforms.designer.sdk.1.6.0.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Base/31.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AJx5PXOMXOWkGv08ny/55axJ3oWEIJ1ar1uOuh/nnJmykVJuYhKw9kw5WiD5+3MbIau7KInqNEriexdc8Tw0xQ==",
+      "path": "syncfusion.compression.base/31.2.3",
+      "hashPath": "syncfusion.compression.base.31.2.3.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/31.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L6m9RKmzLLnT3hT6iXUVHb4lhJpwdf4dO/XTrKskjYz4G9o68uMXxNoxik41sM4RwGeWlV43nKVluuYOf6vllg==",
+      "path": "syncfusion.licensing/31.2.3",
+      "hashPath": "syncfusion.licensing.31.2.3.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.WinForms/31.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-msP8ncLLGGKSWI8IB9EYJoPQdA7OTKm+WORPiKTUBdyN60hGNoYK5E9mPCXkiCN6qYK+Y8keEvmPtN+M2PPELQ==",
+      "path": "syncfusion.pdf.winforms/31.2.3",
+      "hashPath": "syncfusion.pdf.winforms.31.2.3.nupkg.sha512"
+    },
+    "Syncfusion.PdfToImageConverter.WinForms/31.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pJxQpSkej9Miitu9wVPu0WPMCLJyc1BUO3VZ+f2iqhjLeS4hbAK6CDLwDwjeHcj5t49wG+E9h4cVJCR/m+Yo3g==",
+      "path": "syncfusion.pdftoimageconverter.winforms/31.2.3",
+      "hashPath": "syncfusion.pdftoimageconverter.winforms.31.2.3.nupkg.sha512"
+    },
+    "Syncfusion.PdfViewer.Windows/31.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2VNQxKX9bbWbrEGVbuwnAjA/89hVHtop8w+jeJJibnFvE+DVrKYkxsmONyvY+P82rweBOd5gS+gLQYlLjeVJeQ==",
+      "path": "syncfusion.pdfviewer.windows/31.2.3",
+      "hashPath": "syncfusion.pdfviewer.windows.31.2.3.nupkg.sha512"
+    },
+    "Syncfusion.Shared.Base/31.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k8xLZiOsCpFTRErr1daodn6TpCOkPXlBZKUDKX5g7bkrcKMBKjilHQCZxd5JiZpX9GjQ/Rkn8hSA0MmmLa971A==",
+      "path": "syncfusion.shared.base/31.2.3",
+      "hashPath": "syncfusion.shared.base.31.2.3.nupkg.sha512"
+    },
+    "System.CodeDom/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ArWGZOxPhOaJUd4YgvbTxGZDbVDJHPAOQNiJIpbRDPW6v2NT5xkallQv1zpu8Rwwb5Z3iZ1jwWA4gSQuWgR+jw==",
+      "path": "system.codedom/4.6.0",
+      "hashPath": "system.codedom.4.6.0.nupkg.sha512"
+    },
+    "System.Composition/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d7wMuKQtfsxUa7S13tITC8n1cQzewuhD5iDjZtK2prwFfKVzdYtgrTHgjaV03Zq7feGQ5gkP85tJJntXwInsJA==",
+      "path": "system.composition/6.0.0",
+      "hashPath": "system.composition.6.0.0.nupkg.sha512"
+    },
+    "System.Composition.AttributedModel/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WK1nSDLByK/4VoC7fkNiFuTVEiperuCN/Hyn+VN30R+W2ijO1d0Z2Qm0ScEl9xkSn1G2MyapJi8xpf4R8WRa/w==",
+      "path": "system.composition.attributedmodel/6.0.0",
+      "hashPath": "system.composition.attributedmodel.6.0.0.nupkg.sha512"
+    },
+    "System.Composition.Convention/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XYi4lPRdu5bM4JVJ3/UIHAiG6V6lWWUlkhB9ab4IOq0FrRsp0F4wTyV4Dj+Ds+efoXJ3qbLqlvaUozDO7OLeXA==",
+      "path": "system.composition.convention/6.0.0",
+      "hashPath": "system.composition.convention.6.0.0.nupkg.sha512"
+    },
+    "System.Composition.Hosting/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w/wXjj7kvxuHPLdzZ0PAUt++qJl03t7lENmb2Oev0n3zbxyNULbWBlnd5J5WUMMv15kg5o+/TCZFb6lSwfaUUQ==",
+      "path": "system.composition.hosting/6.0.0",
+      "hashPath": "system.composition.hosting.6.0.0.nupkg.sha512"
+    },
+    "System.Composition.Runtime/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qkRH/YBaMPTnzxrS5RDk1juvqed4A6HOD/CwRcDGyPpYps1J27waBddiiq1y93jk2ZZ9wuA/kynM+NO0kb3PKg==",
+      "path": "system.composition.runtime/6.0.0",
+      "hashPath": "system.composition.runtime.6.0.0.nupkg.sha512"
+    },
+    "System.Composition.TypedParts/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iUR1eHrL8Cwd82neQCJ00MpwNIBs4NZgXzrPqx8NJf/k4+mwBO0XCRmHYJT4OLSwDDqh5nBLJWkz5cROnrGhRA==",
+      "path": "system.composition.typedparts/6.0.0",
+      "hashPath": "system.composition.typedparts.6.0.0.nupkg.sha512"
+    }
+  }
+}

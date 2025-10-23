@@ -11,7 +11,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PDF_TO_JPG_translater
+namespace PDF_TO_JPG_converter
 {
     public partial class Form1 : Form
     {

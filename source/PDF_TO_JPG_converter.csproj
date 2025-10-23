@@ -15,10 +15,25 @@
     <Authors>류호준</Authors>
     <Product>PDF TO JPG 변환기</Product>
     <Version>1.0.8</Version>
+    <BaseOutputPath>D:\99. 개인자료\00. 개발\PDF_TO_JPG_converter</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Form1.cs" />
+    <Compile Include="Form1.Designer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgressForm.cs" />
+    <Compile Include="ProgressForm.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.lg.resx" />
+    <EmbeddedResource Include="Form1.resx" />
+    <EmbeddedResource Include="ProgressForm.resx" />
   </ItemGroup>
 
   <ItemGroup>

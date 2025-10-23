@@ -1,4 +1,4 @@
-namespace PDF_TO_JPG_translater
+namespace PDF_TO_JPG_converter
 {
     internal static class Program
     {

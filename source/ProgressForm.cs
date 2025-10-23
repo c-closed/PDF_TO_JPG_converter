@@ -4,7 +4,7 @@ using System;
 using System.ComponentModel;
 using System.Windows.Forms;
 
-namespace PDF_TO_JPG_translater
+namespace PDF_TO_JPG_converter
 {
     public partial class ProgressForm : Form
     {

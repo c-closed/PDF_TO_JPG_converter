@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF_TO_JPG_converter", "PDF_TO_JPG_converter.csproj", "{D7D8F96D-028B-E625-A89C-70A62A09F921}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PDF TO JPG 변환기", "PDF_TO_JPG_translater_setup\PDF_TO_JPG_translater_setup.vdproj", "{C4054D45-4046-4378-7215-A9CB7C94238E}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PDF TO JPG 변환기", "PDF_TO_JPG_converter_setup\PDF_TO_JPG_converter_setup.vdproj", "{C4054D45-4046-4378-7215-A9CB7C94238E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
