@@ -18,5 +18,6 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgSyncfusion_Shared_Base Condition=" '$(PkgSyncfusion_Shared_Base)' == '' ">C:\Users\P477\.nuget\packages\syncfusion.shared.base\31.2.3</PkgSyncfusion_Shared_Base>
     <PkgSyncfusion_PdfViewer_Windows Condition=" '$(PkgSyncfusion_PdfViewer_Windows)' == '' ">C:\Users\P477\.nuget\packages\syncfusion.pdfviewer.windows\31.2.3</PkgSyncfusion_PdfViewer_Windows>
+    <PkgMetroFramework_Design Condition=" '$(PkgMetroFramework_Design)' == '' ">C:\Users\P477\.nuget\packages\metroframework.design\1.2.0.3</PkgMetroFramework_Design>
   </PropertyGroup>
 </Project>

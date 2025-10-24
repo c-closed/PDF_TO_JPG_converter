@@ -46,6 +46,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "MetroFramework": {
+              "target": "Package",
+              "version": "[1.2.0.3, )"
+            },
+            "MetroModernUI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "Syncfusion.PdfViewer.Windows": {
               "target": "Package",
               "version": "[31.2.3, )"

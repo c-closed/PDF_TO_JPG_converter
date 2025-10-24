@@ -3,12 +3,7 @@
   "WorkspaceRootPath": "D:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\PDF_TO_JPG_converter\\source\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7D8F96D-028B-E625-A89C-70A62A09F921}|PDF_TO_JPG_converter.csproj|d:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\pdf_to_jpg_converter\\source\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7D8F96D-028B-E625-A89C-70A62A09F921}|PDF_TO_JPG_converter.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7D8F96D-028B-E625-A89C-70A62A09F921}|PDF_TO_JPG_converter.csproj|d:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\pdf_to_jpg_converter\\source\\pdf_to_jpg_converter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D7D8F96D-028B-E625-A89C-70A62A09F921}|PDF_TO_JPG_converter.csproj|solutionrelative:pdf_to_jpg_converter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{414FA544-5673-462B-982D-2C60C19B5D98}|..\\Updater\\Updater.csproj|d:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\pdf_to_jpg_converter\\updater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\PDF_TO_JPG_converter\\source\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\PDF_TO_JPG_converter\\source\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\PDF_TO_JPG_converter\\Updater\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Updater\\Form1.cs",
+              "ToolTip": "D:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\PDF_TO_JPG_converter\\Updater\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\Updater\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T23:44:50.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PDF_TO_JPG_converter",
-              "DocumentMoniker": "D:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\PDF_TO_JPG_converter\\source\\PDF_TO_JPG_converter.csproj",
-              "RelativeDocumentMoniker": "PDF_TO_JPG_converter.csproj",
-              "ToolTip": "D:\\99. \uAC1C\uC778\uC790\uB8CC\\00. \uAC1C\uBC1C\\PDF_TO_JPG_converter\\source\\PDF_TO_JPG_converter.csproj",
-              "RelativeToolTip": "PDF_TO_JPG_converter.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-23T23:36:42.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T03:35:05.915Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }

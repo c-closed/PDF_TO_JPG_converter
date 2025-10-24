@@ -37,6 +37,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="MetroFramework" Version="1.2.0.3" />
+    <PackageReference Include="MetroModernUI" Version="1.4.0" />
     <PackageReference Include="Syncfusion.PdfViewer.Windows" Version="31.2.3" />
   </ItemGroup>
 

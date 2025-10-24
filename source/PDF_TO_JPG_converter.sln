@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF_TO_JPG_converter", "PDF
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PDF TO JPG 변환기", "PDF_TO_JPG_converter_setup\PDF_TO_JPG_converter_setup.vdproj", "{C4054D45-4046-4378-7215-A9CB7C94238E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "..\Updater\Updater.csproj", "{414FA544-5673-462B-982D-2C60C19B5D98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{D7D8F96D-028B-E625-A89C-70A62A09F921}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C4054D45-4046-4378-7215-A9CB7C94238E}.Debug|Any CPU.ActiveCfg = Debug
 		{C4054D45-4046-4378-7215-A9CB7C94238E}.Release|Any CPU.ActiveCfg = Release
+		{414FA544-5673-462B-982D-2C60C19B5D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414FA544-5673-462B-982D-2C60C19B5D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414FA544-5673-462B-982D-2C60C19B5D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414FA544-5673-462B-982D-2C60C19B5D98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

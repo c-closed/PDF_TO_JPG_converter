@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("ⓒ 2025, 류호준 All rights reserved")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.8")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.8+700e070d6afd1a6c5124a73f2aeaa915febafaa6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.8+fb4baf010da41bc060168892cf78a868bae84387")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDF TO JPG 변환기")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDF_TO_JPG_converter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.8")]

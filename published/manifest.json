@@ -1,0 +1,69 @@
+{
+  "version": "1.0.8",
+  "files": [
+    {
+      "name": "PDF_TO_JPG_converter.deps.json",
+      "hash": "f208a14d3226e55cd79f5b9c29e003112f44765a521f6c28e1aa9135d88f8051"
+    },
+    {
+      "name": "PDF_TO_JPG_converter.dll",
+      "hash": "93da2741a1fecd2c677d98240bbebbee2e7c52ca7006bfd9083c6bb88869c2b3"
+    },
+    {
+      "name": "PDF_TO_JPG_converter.exe",
+      "hash": "f5f8fe60ea97815bbb25718561368960cb1f3cc152223cae00d36029f8e7fe7e"
+    },
+    {
+      "name": "PDF_TO_JPG_converter.pdb",
+      "hash": "ba43c354e8f18c5e77bd3a1e2de4139533d9f6276a08afb4674b36d12eb3e70d"
+    },
+    {
+      "name": "PDF_TO_JPG_converter.runtimeconfig.json",
+      "hash": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd"
+    },
+    {
+      "name": "Syncfusion.Compression.Base.dll",
+      "hash": "c8796f6f45b653bfc6b1663321972dae60b62531aeef38cb694f5a6cfa117811"
+    },
+    {
+      "name": "Syncfusion.Licensing.dll",
+      "hash": "d3c77f7a81604198ed593d354f168624148e33b09e8031de4cba5499a6af7c91"
+    },
+    {
+      "name": "Syncfusion.Pdf.Base.dll",
+      "hash": "d82a45084e05cf85ba3eec51c543829486e7760c7151e9cffec5ec7743004d31"
+    },
+    {
+      "name": "Syncfusion.PdfToImageConverter.Base.dll",
+      "hash": "9df4ed448d07ed2466d2e0d0094ad3452f816174c56a3f75069fb3f2f316d625"
+    },
+    {
+      "name": "Syncfusion.PdfViewer.Windows.dll",
+      "hash": "64b7af68b8dd2c733710467b60888424d121fcda96fc8c57a20a1304ca7b2201"
+    },
+    {
+      "name": "Syncfusion.Shared.Base.dll",
+      "hash": "08d5a856e6aff9c1cbfc5f581cdd1fa6a30706271c28d3f4cae1f405b423feeb"
+    },
+    {
+      "name": "System.Composition.AttributedModel.dll",
+      "hash": "e506dff4ea24163c90b6cac81c8f959efc316308da635e62adf17f610f93333c"
+    },
+    {
+      "name": "System.Composition.Convention.dll",
+      "hash": "4a66481a3f9e0ab4c5c50123e7e141ab7028013e2f041941e746e546468544e1"
+    },
+    {
+      "name": "System.Composition.Hosting.dll",
+      "hash": "998f268a7c0a16ad2a86158ffb86bfdc76a1bf6b3a9065d2bc67cbd603cfb0d5"
+    },
+    {
+      "name": "System.Composition.Runtime.dll",
+      "hash": "ec300fa94e84746c8ca94ab049887ed7e7999ce26c721a82ebc0c97337fc35c5"
+    },
+    {
+      "name": "System.Composition.TypedParts.dll",
+      "hash": "8ffa3f5472025de05f7ecacb46fb94b4514ac8fd4b608f33f01c5a5cc21ac556"
+    }
+  ]
+}
